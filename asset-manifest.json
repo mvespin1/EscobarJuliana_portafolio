@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/EscobarJuliana_portafolio/static/css/main.e43d6e1b.css",
+    "main.js": "/EscobarJuliana_portafolio/static/js/main.47fa9102.js",
+    "static/media/ORGANIZACIONES.png": "/EscobarJuliana_portafolio/static/media/ORGANIZACIONES.c71ae43fe1d369d1d75f.png",
+    "static/media/htmlDom.png": "/EscobarJuliana_portafolio/static/media/htmlDom.bb57df73418915f65f21.png",
+    "static/media/ScrollReveal.png": "/EscobarJuliana_portafolio/static/media/ScrollReveal.edb6d7d065c46bea0b3b.png",
+    "static/media/jquery.png": "/EscobarJuliana_portafolio/static/media/jquery.555beb8e42fa42a5ff6e.png",
+    "static/media/coffee-apple.jpg": "/EscobarJuliana_portafolio/static/media/coffee-apple.a0c19713a15fff3f3cff.jpg",
+    "static/media/xmlJson.png": "/EscobarJuliana_portafolio/static/media/xmlJson.b889700503dc08627889.png",
+    "static/media/yo.jpg": "/EscobarJuliana_portafolio/static/media/yo.f7634655e535023e16c5.jpg",
+    "static/media/proyecto-veris.png": "/EscobarJuliana_portafolio/static/media/proyecto-veris.438ef6d9bfdbd7645a44.png",
+    "index.html": "/EscobarJuliana_portafolio/index.html",
+    "main.e43d6e1b.css.map": "/EscobarJuliana_portafolio/static/css/main.e43d6e1b.css.map",
+    "main.47fa9102.js.map": "/EscobarJuliana_portafolio/static/js/main.47fa9102.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e43d6e1b.css",
+    "static/js/main.47fa9102.js"
+  ]
+}
